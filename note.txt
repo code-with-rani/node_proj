@@ -1,0 +1,25 @@
+npm init -y
+npm i express
+npm i ejs
+npm i mongoose
+
+
+model :listing 
+title ,desc,img url,price,loc,country =basic info 
+
+show route :read
+
+create route
+
+update route 
+get /listings:/id/edit ==>edit form ==>submit
+put /listings/:id 
+npm i method-override     ==package install
+
+delete route
+delete /listing/id
+
+
+############################################################################
+npm i ejs-mate      //install 
+
